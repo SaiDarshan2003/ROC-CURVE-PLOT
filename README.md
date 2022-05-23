@@ -23,9 +23,16 @@ On the other hand, if our classifier is predicting whether someone has a termina
 4. Fit the Logistic Regression Model
 5. Model Diagnostics
 
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+
 ## Program:
 ```
-/*
+
 Program to plot Receiver Operating Characteristic [ROC] Curve.
 Developed by   : Sai Darshan G
 RegisterNumber :  212221240047
@@ -70,8 +77,7 @@ plt.xlabel("False Positive Rate")
 plt.legend(loc=4)
 
 plt.show()
-*/
-*/
+
 ```
 
 ## Output:
